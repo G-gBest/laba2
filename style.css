@@ -1,0 +1,18 @@
+table {
+    width: 30%; /* Ширина таблицы */
+    border-collapse: collapse;
+    border: 1px solid rgb(161, 29, 29);
+  }
+  th {    
+    background: rgb(161, 29, 29); /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+    color: white; /* Цвет текста */
+    font-size: 20px;
+    border: 1px solid rgb(161, 29, 29);                
+  }
+  td { 
+    padding: 5px; /* Поля вокруг текста */        
+    border-right: none;
+    border-left: none;
+    text-align: center;      
+  }
