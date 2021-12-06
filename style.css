@@ -16,3 +16,17 @@ table {
     border-left: none;
     text-align: center;      
   }
+  #relativedog{
+   position: relative;
+   top: 100px; 
+   left: 300px; 
+   bottom: 20px; 
+   right: 300px;
+  }
+  #absolutedog{
+    position: absolute;
+    top: 400px; 
+    left: 800px; 
+    bottom: 20px; 
+    right: 300px;
+   }
